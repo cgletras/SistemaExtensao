@@ -1,1 +1,1 @@
-testando o comando git commit -am 
+testando o comando git commit -am e testando o git diff
